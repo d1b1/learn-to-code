@@ -14,3 +14,6 @@ This is a repo that contains steps to go from noob to javascript develper.
 
 ### Reference
 http://underscorejs.org
+
+### Git Resources
+* Shortcuts for CLI (https://jonsuh.com/blog/git-command-line-shortcuts/)
